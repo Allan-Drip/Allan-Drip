@@ -10,7 +10,7 @@
 < div align="centro" >
   < estilo div = "display: inline_block" >< br >
 
-    < img align = "left" height = "250" alt = "coding-time" src = "code.gif" >
+    < img align = "left" height = ">
 
     <h1 align="center">Melhores Tecnologias <3</h1>
 
@@ -34,25 +34,19 @@
 
   <h1 align="center">Redes Sociais</h1>
 
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <z3pekeno2012@gmail.com@gmail.com">
 
       <img width="30" src="gmail.svg">
 
     </a>
 
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
 
-      <img width="25" src="linkedin.svg">
 
-    </a>
-
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-
-      <img width="35" src="youtube.svg">
+   
 
     </a>
 
-    <a href = "">
+    <a href = "https://instagram.com/allan.mrs_?igshid=ZDdkNTZiNTM=">
 
       <img width="25" src="instagram.png">
 
@@ -62,7 +56,7 @@
 
   
 
-![Snake animation](https://github.com/Allan-Drip/Allan-Drip/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/Allan-Drip/Allan-Drip/blob/output/github-contribution-grid-snake.svg)
 
 
 
