@@ -47,10 +47,9 @@
 
   
 
-(https://github.com/Allan-Drip/Allan-Drip/blob/output/github-contribution-grid-snake.svg)
 
 
-
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 
 
