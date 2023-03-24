@@ -54,7 +54,8 @@
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)]([https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3?si=f60d996868124ce2) 
+ <br/>
 
 
 
