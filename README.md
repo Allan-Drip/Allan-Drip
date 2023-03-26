@@ -1,4 +1,4 @@
-/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Allan+Martins+Gadelha;I'm+16+years+old;I+from+Brasil,+CE;I+study+at+IFCE+Informatics;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -6,7 +6,7 @@
 
 
 <div align="center">  
-  <img width="57%" align="left" height="195px" src="https://github-readme-stats.vercel.app/api?username=Allan-Drip&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Allan Martins Gadelha github stats" /> <img width="20%" align="right" alt="Sanji" src="https://cdn.discordapp.com/attachments/804183445059272726/1083706805177299075/one-piece-sanji_1.gif"/>
+  <img width="57%" align="left" height="195px" src="https://github-readme-stats.vercel.app/api?username=Allan-Drip&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Allan Martins Gadelha github stats" /> <img width="20%" align="right" alt="Sanji" src="https://cdn.discordapp.com/attachments/804183445059272726/1089347738933665813/16797911192306005176279725039733.gif"/>
   <img width="49%" align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Drip&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /> 
 
 </div>
