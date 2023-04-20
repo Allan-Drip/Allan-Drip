@@ -54,7 +54,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=ccaym0pojt6eux9f7deaud3z3&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=0000ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view.svg?uid=ccaym0pojt6eux9f7deaud3z3&redirect=true)
 
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Allan-Drip/Allan-Drip/blob/output/github-contribution-grid-snake.svg)
 
 
 
