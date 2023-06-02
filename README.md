@@ -1,18 +1,5 @@
 
 
-<div align="center">  
-  <img width="40%" align="center" alt="Sanji" src="https://cdn.discordapp.com/attachments/804183445059272726/1104395331040444519/7rq2odnkhusa1.gif"/>
- 
-
-</div>
-
-
-
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Allan-Drip&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />  
-
- 
 
 
 </p>
