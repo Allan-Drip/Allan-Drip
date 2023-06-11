@@ -1,8 +1,8 @@
-<h1 align="center">Warmly welcome 👋</h1>
+<h1 align="center">'Warmly welcome' 👋</h1>
 
+- 😄 About me: **Hello, my name is Allan Gadelha. I'm 17 years old. I'm from Caucaia (Ceará). I'm a student at the Federal Institute of Ceará where I take the technical course in informatics where I'm currently (2023-1) in the 3rd period. I'm what we can call a computer and artificial intelligence enthusiast and simply passionate about photography.**
 
-
-Hi, my name is Allan Gadelha. I'm from Caucaia (Ceará). I am a student at the Federal Institute of Ceará where I take the computer technician course
+ 
   
 <div align="center">
 </a
