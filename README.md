@@ -1,6 +1,8 @@
+<h1 align="center">Warmly welcome 👋</h1>
 
 
 
+Hi, my name is Allan Gadelha. I'm from Caucaia (Ceará). I am a student at the Federal Institute of Ceará where I take the computer technician course
   
 <div align="center">
 </a
@@ -35,7 +37,7 @@
 <div align="center">  
 
 
-## <b> Fale comigo..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> 
+## <b> Contact with me</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> 
 
 
 
