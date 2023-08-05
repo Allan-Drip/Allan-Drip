@@ -1,6 +1,6 @@
 <h1 align="center">'Welcome' 👋</h1>
 
-- 😄 About me: **Hello, my name is Allan Gadelha. I'm 17 years old. I'm from Caucaia (Ceará). I'm a student at the Federal Institute of Ceará where I take the technical course in informatics where I'm currently (2023-1) in the 3rd period. I'm what we can call a computer and artificial intelligence enthusiast and simply passionate about photography.**
+- 😄 About me: **Hello, my name is Allan Gadelha. I'm 17 years old. I'm from Caucaia (Ceará). I'm a student at the Federal Institute of Ceará where I take the technical course in informatics where I'm currently (2023-2) in the 4rd period. I'm what we can call a computer and artificial intelligence enthusiast and simply passionate about photography.**
 
  
   
